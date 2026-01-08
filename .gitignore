@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uploaded & generated files
+static/uploads/*
+static/outputs/*
+
+# Except keep folders
+!static/uploads/.gitkeep
+!static/outputs/.gitkeep
