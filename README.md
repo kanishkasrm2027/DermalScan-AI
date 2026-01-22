@@ -5,6 +5,16 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue)](https://dermalscan-ai-skin-analysis.onrender.com)
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://dermalscan-ai-skin-analysis.onrender.com"><b>🔗 Access Live Demo</b></a>
+</p>
+
+> ⏳ **Note:** The application may take 10–30 seconds to load on first access due to cold start behavior on Render's free tier.
+
 
 <p align="center">
   <b>DermalScan</b> is an AI-powered web application that analyzes facial images to detect skin conditions, estimate age, and visualize results using deep learning and computer vision techniques.
@@ -16,8 +26,6 @@
 
 DermalScan provides an end-to-end solution for facial skin analysis using a modern web interface and a robust backend inference pipeline.  
 The system supports **single-face and multi-face images**, generates **annotated visual outputs**, logs predictions, and allows **exporting results** for further analysis.
-
----
 
 ## ✨ Key Features
 
@@ -201,7 +209,9 @@ python app.py
 
 ## 📄 License
 
-**Author:** Kanishka Sugumar
+**Author:** Kanishka Sugumar  
+**Email:** kanishkasugumar.official@gmail.com  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kanishkasugumar/)
 
 This project is intended for educational and research purposes. It was created as part of the Infosys Springboard Virtual Internship program.
 
