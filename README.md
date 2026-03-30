@@ -13,7 +13,7 @@
   <a href="https://dermalscan-ai-skin-analysis.onrender.com"><b>🔗 Access Live Demo</b></a>
 </p>
 
-> ⏳ **Note:** The application may take 10–30 seconds to load on first access due to cold start behavior on Render's free tier.
+> ⏳ **Note:** The application may take 3-5 minutes to load on first access due to cold start behavior on Render's free tier.
 
 
 <p align="center">
